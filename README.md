@@ -1,4 +1,3 @@
-# Construction-site-Safety-
 Project Details:
 Overview
 We will be working on a “Con-Safety” project. In this, we will create a
@@ -33,7 +32,8 @@ Using above features, we have trained three models those are
 predicting relevant results for all three targets with different classes. What we need to do:
 So we have enough data, by which, our model can predict that in
 some particular site a particular type of accident may happen. But what about the safe side? Our model should also predict that a
-particular site is safe to work. 1. Data creation:
+particular site is safe to work.
+ 1. Data creation:
 Now we have to work on considering some particular
 situations where we can say that the construction site is safe to
 work. While creating the data set of safe cases, we have to focus
